@@ -76,7 +76,7 @@ print("\nPredicted Salary for 5 years experience:", predicted_salary[0])
 
 ## Output:
 
-
+https://github.com/kamaleshE3172007/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/raw/main/image.png
 
 
 ## Result:
