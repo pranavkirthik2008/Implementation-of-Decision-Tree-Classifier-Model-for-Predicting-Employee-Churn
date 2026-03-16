@@ -76,8 +76,7 @@ print("\nPredicted Salary for 5 years experience:", predicted_salary[0])
 
 ## Output:
 <img width="381" height="242" alt="image" src="https://github.com/user-attachments/assets/c962f89a-4e33-4407-8a8b-2ed688d276f2" />
-<img width="1322" height="726" alt="image" src="https://github.com/user-attachments/assets/fd221cbd-fdda-48dc-82cb-c88a801a8445" />
-<img width="1357" height="229" alt="image" src="https://github.com/user-attachments/assets/a94a0464-e71e-4f22-be99-81c699f7853c" />
+
 
 
 ## Result:
